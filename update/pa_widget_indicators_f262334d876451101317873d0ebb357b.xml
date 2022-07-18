@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widget_indicators">
+    <pa_widget_indicators action="INSERT_OR_UPDATE">
+        <aggregate display_value="4w running SUM">58709011d7001100ba986f14ce610335</aggregate>
+        <breakdown/>
+        <breakdown_level2/>
+        <chart_type>line</chart_type>
+        <color/>
+        <element/>
+        <element_level2/>
+        <elements_filter/>
+        <follow_element>false</follow_element>
+        <follow_managed_element>false</follow_managed_element>
+        <followed_breakdown/>
+        <indicator display_value="NeedIt: Due Weekly">98f1396c87a411101317873d0ebb3588</indicator>
+        <label/>
+        <order/>
+        <second_y_axis>false</second_y_axis>
+        <sys_class_name>pa_widget_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-06 08:39:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f262334d876451101317873d0ebb357b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_widget_indicators_f262334d876451101317873d0ebb357b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-06 08:39:23</sys_updated_on>
+        <widget display_value="myworkbenchs">0ef17709876451101317873d0ebb3588</widget>
+        <widget_indicator/>
+    </pa_widget_indicators>
+</record_update>

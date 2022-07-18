@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="MS icon-Mail-Solid">03ef790673b52010a59b4c5353f6a70a</icon>
+        <name>needit charts</name>
+        <report/>
+        <roles_override>admin</roles_override>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 12:52:16</sys_created_on>
+        <sys_id>c5c20bc8c3785110648a2e5ce00131e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needit charts</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_c5c20bc8c3785110648a2e5ce00131e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 12:52:16</sys_updated_on>
+        <tool_tip>true</tool_tip>
+        <type>PA</type>
+        <use_last_point>true</use_last_point>
+        <widget display_value="% of incidents resolved same day opened">056ad171ff2302001e68ffffffffffd5</widget>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c5c20bc8c3785110648a2e5ce00131e3"/>
+</record_update>
